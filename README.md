@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/reedroux/reeedroux-bot">
-    <img src="https://media.discordapp.net/attachments/963097935820750878/963098304483328030/20220411_160253.png" alt="Pbot-plus" width="200" height="200">
+    <img src="https://reedroux.biz/favicon.ico" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">Reeedroux-bot</h3>
