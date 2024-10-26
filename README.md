@@ -75,7 +75,7 @@ To start your bot
 npm start
 ```
 ###
-WaveMusic is a discord music bot base in [Kazagumo](https://github.com/Takiyo0/Kazagumo) (Shoukaku)
+Reedroux-Bot is a discord music bot base in [Kazagumo](https://github.com/Takiyo0/Kazagumo) (Shoukaku)
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 
